@@ -1,0 +1,11 @@
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\bin\Debug\Sorter.exe.config
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\bin\Debug\Sorter.exe
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\bin\Debug\Sorter.pdb
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.csproj.AssemblyReference.cache
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.Form1.resources
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.Properties.Resources.resources
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.csproj.GenerateResource.cache
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.exe
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\IT\Other\Sorting\C#\Sorter\obj\Debug\Sorter.pdb
